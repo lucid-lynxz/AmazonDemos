@@ -1,6 +1,6 @@
 # 亚马逊登录demo
 
-[文档](https://developer.amazon.com/docs/login-with-amazon/create-android-project.html#install-lwa-library)
+[文档](https://developer.amazon.com/docs/login-with-amazon/install-sdk-android.html)
 
 ## 前置条件
 ### 1. 配置签名文件
@@ -31,7 +31,7 @@ android{
 P.S. 后续需要用到生成的 `Product ID`
 
 ## 集成
-### 1. 下载sdk文件
+### 1. [下载sdk文件](https://developer.amazon.com/sdk-download)
 ### ２. 添加权限
 ```xml
 <!-- androidManifest.xml-->
